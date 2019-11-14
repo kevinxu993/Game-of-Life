@@ -64,7 +64,7 @@ Compiled and life check passed :)
 
 ## Contributing to this project
 
-1. Fork it [![GitHub forks](https://img.shields.io/github/forks/jellycsc/game-of-life.svg?style=social&label=Fork&maxAge=2592000&)](https://github.com/jellycsc/game-of-life/fork)
+1. Fork it [![GitHub forks](https://img.shields.io/github/forks/kevinxu993/Game-of-Life.svg?style=social&label=Fork&maxAge=2592000&)](https://github.com/kevinxu993/Game-of-Life/fork)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to your feature branch (`git push origin my-new-feature`)
